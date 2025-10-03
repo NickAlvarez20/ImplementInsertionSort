@@ -35,7 +35,9 @@ Clone the repository to your local machine:
 
 `git clone https://github.com/NickAlvarez20/ImplementInsertionSort.git`
 ## Usage
-Run the JavaScript script (e.g., node insertion_sort.js) in a JavaScript environment (e.g., Node.js or a browser console). The script will sort the provided arrays and output the results
+Run the JavaScript script (e.g., node insertion_sort.js) in a JavaScript environment (e.g., Node.js or a browser console). The script will sort the provided arrays and output the results:
+
+`node insertion_sort.js`
 ## Learning Outcomes
 This project helped me:
 
